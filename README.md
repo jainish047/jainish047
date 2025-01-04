@@ -32,6 +32,13 @@ I am proud to have been part of the winning team of SIH 2024, showcasing my tech
     - Developed using **Java with JDBC** for seamless database interaction.  
     - Used SQL to store, retrieve, update, and delete diary entries efficiently.  
     - Secure login system to protect user data.
+- **[Command Prompt Chess](https://github.com/jainish047/Chess-Command-prompt-.git)**  
+  A command-line chess game developed in C++ with a focus on logic and game mechanics.  
+  *Key Features*:  
+    - Fully functional chess game playable via terminal.  
+    - Implements rules of chess including check, checkmate, and special moves like castling.  
+    - Clean and efficient C++ codebase with modular design.
+
 
 ## Achievements
 - **SIH 2024 Winner**: Successfully developed and presented a solution to a real-world problem in the Smart India Hackathon.  
