@@ -3,6 +3,12 @@ Hi! I'm Jainish Patel, currently pursuing B.Tech in Information Technology with 
 I'm a passionate Fullstack Web Developer (MERN) with hands-on experience in Next.js, PostgreSQL, and TypeScript. 
 My competitive programming journey includes solving 250+ problems on LeetCode.  
 I am proud to have been part of the winning team of SIH 2024, showcasing my technical and collaborative skills.
+
+## Links
+- **LeetCode**: [https://leetcode.com/u/Jainish47/](https://leetcode.com/u/Jainish47/)
+- **CodeForces**: [https://codeforces.com/profile/JD47](https://codeforces.com/profile/JD47)
+- **CodeChef**: [https://www.codechef.com/users/jainish_47](https://www.codechef.com/users/jainish_47)
+
 ## Skills
 - **Programming Languages**: JavaScript, TypeScript, JAVA, C++, C, Python
 - **Frameworks & Libraries**: React.js, Node.js, Express.js, Next.js
@@ -49,7 +55,3 @@ I am proud to have been part of the winning team of SIH 2024, showcasing my tech
 - **Email**:  jdp5420950@gmail.com 
 - **GitHub**: [https://github.com/jainish047](https://github.com/jainish047)  
 - **LinkedIn**: [https://linkedin.com/in/jainish-patel](https://www.linkedin.com/in/jainish-patel-7a8b8825a)
-
-## Other Links
-- **LeetCode**: [https://leetcode.com/u/Jainish47/](https://leetcode.com/u/Jainish47/)
-- **CodeForces**: [https://codeforces.com/profile/JD47](https://codeforces.com/profile/JD47)
