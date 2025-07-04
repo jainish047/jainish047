@@ -1,6 +1,12 @@
 # 💻 Jainish Patel | Fullstack Web Developer (MERN) | SIH 2024 Winner
 
 <p align="center">
+  <a href="https://jainish-portfolio-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A192F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/jainish-patel-7a8b8825a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
