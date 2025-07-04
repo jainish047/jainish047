@@ -1,20 +1,25 @@
 # 💻 Jainish Patel | Fullstack Web Developer (MERN) | SIH 2024 Winner
 
+<p align="center">
+  <a href="https://linkedin.com/in/jainish-patel-7a8b8825a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Jainish47/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/jainish_47" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/JD47" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
 Hi there! I'm **Jainish Patel**, a passionate Fullstack Web Developer and Final Year B.Tech IT student from **G H Patel College of Engineering & Technology (GCET)** with a stellar CGPA of **9.60**.  
 
 I specialize in **MERN stack**, and I have built multiple full-fledged apps using **Next.js**, **TypeScript**, **PostgreSQL**, and **Tailwind CSS**. I'm also a DSA enthusiast with **600+ problems** solved across **LeetCode**, **Codeforces**, and **CodeChef**.
 
 I'm proud to be the **Winner of Smart India Hackathon 2024**, where I led the development of a real-world mentorship platform, showcasing not just my technical skills but also collaboration and leadership in a high-pressure environment.
-
----
-
-## 🔗 Connect With Me
-- 📧 Email: [jdp5420950@gmail.com](mailto:jdp5420950@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jainish-patel](https://www.linkedin.com/in/jainish-patel-7a8b8825a)
-- 💻 GitHub: [github.com/jainish047](https://github.com/jainish047)
-- 👨‍💻 LeetCode: [leetcode.com/u/Jainish47](https://leetcode.com/u/Jainish47)
-- ⚔️ Codeforces: [codeforces.com/profile/JD47](https://codeforces.com/profile/JD47)
-- 🍽️ CodeChef: [codechef.com/users/jainish_47](https://www.codechef.com/users/jainish_47)
 
 ---
 
@@ -43,11 +48,11 @@ I'm proud to be the **Winner of Smart India Hackathon 2024**, where I led the de
 
 ## 🏆 Achievements
 - 🥇 **Winner – Smart India Hackathon 2024 (SIH'24)**
-- 💡 Consistently maintained **9.60 CGPA** in B.Tech – IT.
+- 💡 Consistently maintained **9.43 CGPA** in B.Tech – IT.
 - 💪 Solved over **600+ DSA problems**:
-  - **LeetCode**: 250+  
+  - **LeetCode**: 250+
   - **Codeforces**: Rated – [Pupil]  
-  - **CodeChef**: 2⭐
+  - **CodeChef**: 2 ⭐
 
 ---
 
@@ -155,6 +160,16 @@ Feel free to reach out via [Email](mailto:jdp5420950@gmail.com) or connect on [L
 - 🌐 **Advanced TypeScript** (Generics, Utility Types)
 - 📊 **Data Visualization with D3 & Recharts**
 - 🧠 **ML/AI Projects** using Python + Web Integration
+
+---
+
+## 🔗 Connect With Me
+- 📧 Email: [jdp5420950@gmail.com](mailto:jdp5420950@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/jainish-patel](https://www.linkedin.com/in/jainish-patel-7a8b8825a)
+- 💻 GitHub: [github.com/jainish047](https://github.com/jainish047)
+- 👨‍💻 LeetCode: [leetcode.com/u/Jainish47](https://leetcode.com/u/Jainish47)
+- ⚔️ Codeforces: [codeforces.com/profile/JD47](https://codeforces.com/profile/JD47)
+- 🍽️ CodeChef: [codechef.com/users/jainish_47](https://www.codechef.com/users/jainish_47)
 
 ---
 
