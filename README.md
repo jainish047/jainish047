@@ -1,57 +1,161 @@
-# Jainish Patel | Fullstack Web Developer (MERN) | SIH 2024 Winner
-Hi! I'm Jainish Patel, currently pursuing B.Tech in Information Technology with a CGPA of 9.60. 
-I'm a passionate Fullstack Web Developer (MERN) with hands-on experience in Next.js, PostgreSQL, and TypeScript. 
-My competitive programming journey includes solving 250+ problems on LeetCode.  
-I am proud to have been part of the winning team of SIH 2024, showcasing my technical and collaborative skills.
+# 💻 Jainish Patel | Fullstack Web Developer (MERN) | SIH 2024 Winner
 
-## Links
-- **LeetCode**: [https://leetcode.com/u/Jainish47/](https://leetcode.com/u/Jainish47/)
-- **CodeForces**: [https://codeforces.com/profile/JD47](https://codeforces.com/profile/JD47)
-- **CodeChef**: [https://www.codechef.com/users/jainish_47](https://www.codechef.com/users/jainish_47)
+Hi there! I'm **Jainish Patel**, a passionate Fullstack Web Developer and Final Year B.Tech IT student from **G H Patel College of Engineering & Technology (GCET)** with a stellar CGPA of **9.60**.  
 
-## Skills
-- **Programming Languages**: JavaScript, TypeScript, JAVA, C++, C, Python
-- **Frameworks & Libraries**: React.js, Node.js, Express.js, Next.js
+I specialize in **MERN stack**, and I have built multiple full-fledged apps using **Next.js**, **TypeScript**, **PostgreSQL**, and **Tailwind CSS**. I'm also a DSA enthusiast with **600+ problems** solved across **LeetCode**, **Codeforces**, and **CodeChef**.
+
+I'm proud to be the **Winner of Smart India Hackathon 2024**, where I led the development of a real-world mentorship platform, showcasing not just my technical skills but also collaboration and leadership in a high-pressure environment.
+
+---
+
+## 🔗 Connect With Me
+- 📧 Email: [jdp5420950@gmail.com](mailto:jdp5420950@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/jainish-patel](https://www.linkedin.com/in/jainish-patel-7a8b8825a)
+- 💻 GitHub: [github.com/jainish047](https://github.com/jainish047)
+- 👨‍💻 LeetCode: [leetcode.com/u/Jainish47](https://leetcode.com/u/Jainish47)
+- ⚔️ Codeforces: [codeforces.com/profile/JD47](https://codeforces.com/profile/JD47)
+- 🍽️ CodeChef: [codechef.com/users/jainish_47](https://www.codechef.com/users/jainish_47)
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages:
+`JavaScript` | `TypeScript` | `C++` | `Java` | `Python` | `C`
+
+### 🧠 Core Skills:
+- **Data Structures & Algorithms**
+- **Object-Oriented Programming (OOP)**
+- **System Design Basics**
+- **Problem Solving**
+- **Authentication & Authorization**
+
+### 🌐 Web Development:
+- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3
+- **Backend**: Node.js, Express.js, RESTful APIs, JWT Auth, Passport.js
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Competitive Programming**: LeetCode (250+ problems solved), Codechef (2 ⭐)
-- **Other Tools**: Git, Bootstrap, Tailwind CSS, Prisma
-## Projects
-- **[ZenSkills Mentorship Platform (SIH'24 Winner Project)](https://github.com/vachakb/ZenSkills.git)**  
-  A platform built using React.js, Express.js and PostgreSQL to connect Mentee and Mentors for mentoring and networking.
-  *Key Features*:
-     - Real-time chat
-     - advanced search
-     - secure authentication.
+- **ORMs**: Prisma, Mongoose
 
-- **[A* Algorithm Visualizer (8 puzzle)](https://github.com/jainish047/Puzzle-Solver.git)**  
-  Developed a web-based tool to visualize the A* pathfinding algorithm using React.js.
-- **[Huffman Coding and Decoding (Text-file Zipper)](https://github.com/jainish047/Textfile-Zipper.git)**  
-  Implemented an efficient Huffman coding algorithm to compress and decompress text data.  
-  *Key Features*:  
-    - Built using C++ for high performance.  
-    - Generates optimal prefix codes for given character frequencies.  
-    - Compresses text files and provides the option to decode back to the original text
-  *Key Features*: Interactive user interface, real-time animations, and custom map creation.
-- **[Daily Diary Application](https://github.com/jainish047/Daily-Diary.git)**  
-  Created a (CLI) Java-based desktop application to manage and maintain personal daily diary entries.  
-  *Key Features*:  
-    - Developed using **Java with JDBC** for seamless database interaction.  
-    - Used SQL to store, retrieve, update, and delete diary entries efficiently.  
-    - Secure login system to protect user data.
-- **[Command Prompt Chess](https://github.com/jainish047/Chess-Command-prompt-.git)**  
-  A command-line chess game developed in C++ with a focus on logic and game mechanics.  
-  *Key Features*:  
-    - Fully functional chess game playable via terminal.  
-    - Implements rules of chess including check, checkmate, and special moves like castling.  
-    - Clean and efficient C++ codebase with modular design.
+### ⚙️ DevOps & Tools:
+- Git, GitHub, Vercel, Render, Postman, Figma (basic)
 
+---
 
-## Achievements
-- **SIH 2024 Winner**: Successfully developed and presented a solution to a real-world problem in the Smart India Hackathon.  
-- Solved **250+ problems** on LeetCode, improving problem-solving and algorithmic thinking skills.
-- **Academic Excellence**: Consistently maintained a high CGPA of 9.60 throughout B.Tech in Information Technology.
+## 🏆 Achievements
+- 🥇 **Winner – Smart India Hackathon 2024 (SIH'24)**
+- 💡 Consistently maintained **9.60 CGPA** in B.Tech – IT.
+- 💪 Solved over **600+ DSA problems**:
+  - **LeetCode**: 250+  
+  - **Codeforces**: Rated – [Pupil]  
+  - **CodeChef**: 2⭐
 
-## Contact
-- **Email**:  jdp5420950@gmail.com 
-- **GitHub**: [https://github.com/jainish047](https://github.com/jainish047)  
-- **LinkedIn**: [https://linkedin.com/in/jainish-patel](https://www.linkedin.com/in/jainish-patel-7a8b8825a)
+---
+
+## 🚀 Major Projects
+
+### 🧠 [ZenSkills – Mentorship Platform (SIH'24 Winner)](https://github.com/vachakb/ZenSkills)
+A scalable mentorship web platform connecting mentees with expert mentors.
+- **Tech Stack**: React.js, Node.js, Express.js, PostgreSQL, Prisma
+- **Features**:
+  - Real-time chat (Socket.io)
+  - Advanced search with filtering
+  - Secure authentication (JWT + Passport.js)
+  - Modular, scalable backend architecture
+
+---
+
+### 💼 [Freelancing Platform – Fullstack Project](https://github.com/jainish047/freelancing-platform)
+A modern platform connecting clients and freelancers, enabling project posting, bidding, and collaboration.
+- **Tech Stack**: React.js, Redux, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
+- **Features**:
+  - User authentication (JWT-based login/signup)
+  - Role-based access: Client vs Freelancer
+  - Project posting and proposal management
+  - Redux-based global state management
+  - Modal-driven UX (e.g. Add project, Edit details)
+  - Clean UI using Tailwind & Shadcn UI
+  - REST API architecture with secure data flow
+
+---
+
+### 🧩 [A* Algorithm Visualizer (8 Puzzle)](https://github.com/jainish047/Puzzle-Solver)
+Interactive visualizer to demonstrate the A* pathfinding algorithm for the 8-puzzle problem.
+- **Tech Stack**: React.js, JavaScript
+- **Highlights**:
+  - Custom node placement and movement animation
+  - Heuristic-based solving (Manhattan Distance)
+  - State management for each step in the path
+
+---
+
+### 🗜️ [Huffman Coding and Decoding – Text-file Zipper](https://github.com/jainish047/Textfile-Zipper)
+Compression-decompression tool using Huffman encoding algorithm.
+- **Tech Stack**: C++
+- **Features**:
+  - Generates optimal binary codes
+  - Compresses text files with high efficiency
+  - Decoding engine restores original file accurately
+
+---
+
+### 📓 [Daily Diary – CLI Desktop App](https://github.com/jainish047/Daily-Diary)
+A secure personal diary manager with CRUD operations in terminal.
+- **Tech Stack**: Java, JDBC, SQL
+- **Features**:
+  - Command-line based UI
+  - Password protected login system
+  - Data persisted in relational database
+
+---
+
+### ♟️ [Command Prompt Chess Game](https://github.com/jainish047/Chess-Command-prompt-.git)
+Full-featured chess engine playable via the terminal.
+- **Tech Stack**: C++
+- **Features**:
+  - Supports all chess rules (castling, pawn promotion, check/checkmate)
+  - Clean OOP design for board and pieces
+  - Efficient move validation
+
+---
+
+### ✍️ [AI/NLP IELTS Evaluator Web App](https://github.com/jainish047/IELTS-Evaluator)
+Evaluates essays based on grammar, vocabulary, and coherence.
+- **Tech Stack**: Next.js, Tailwind CSS, OpenAI API
+- **Features**:
+  - Voice + text input
+  - Automated grammar & coherence scoring
+  - Feedback on vocabulary diversity and tone
+  - Easy-to-use frontend with modern UI
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainish047&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainish047&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 💬 Let's Collaborate
+
+Looking for internships, open-source projects, or freelance collaborations in:
+- Fullstack Web Development
+- React / Next.js
+- AI-powered Web Tools
+- DSA Mentoring / Peer Coding
+
+Feel free to reach out via [Email](mailto:jdp5420950@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jainish-patel-7a8b8825a)!
+
+---
+
+## 🔍 Currently Exploring
+- ⚙️ **System Design** (Scalability, Load Balancing, Caching)
+- 🌐 **Advanced TypeScript** (Generics, Utility Types)
+- 📊 **Data Visualization with D3 & Recharts**
+- 🧠 **ML/AI Projects** using Python + Web Integration
+
+---
+
+> **"Build. Break. Learn. Repeat."** — That's my mantra 🚀  
